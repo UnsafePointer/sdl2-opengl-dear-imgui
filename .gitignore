@@ -69,3 +69,6 @@ bin/*
 
 # glad
 glad/
+
+## Dear ImGui Ini files
+imgui.ini
